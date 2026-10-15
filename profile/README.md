@@ -25,13 +25,13 @@ SCOPE-XR builds perception-aware wireless networks for multi-user extended reali
   <img src="https://scope-xr.github.io/assets/logos/ericsson.svg" alt="Ericsson" height="44">
 </p>
 
-| | |
+| Institution | Team |
 |---|---|
 | **University of Georgia** (lead) | Haijian Sun (PI), Zhenlin An, Kyle Johnsen, Mehmet Kurum, WenZhan Song |
 | **The University of Texas at Austin** | Kaushik Chowdhury, Jeffrey G. Andrews |
 | **Virginia Tech** | Rose Qingyang Hu, Lingjia Liu, Harpreet S. Dhillon, Bo Ji |
 | **University of Wisconsin–Madison** | Feng Ye, Suman Banerjee, Joshua San Miguel |
-| **Ericsson** (industry partner) | |
+| **Ericsson** (industry partner) | Md Moin Uddin Chowdhury, Per Karlsson |
 
 ## Repositories
 
