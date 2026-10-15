@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://scope-xr.github.io/assets/logos/nsf.png" alt="NSF" height="72">
+  <a href="https://www.nsf.gov"><img src="https://scope-xr.github.io/assets/logos/nsf.png" alt="NSF" height="72"></a>
 </p>
 
 <h1 align="center">SCOPE-XR: Seeing the Channel: Optimizing Perception-aware Environments for XR</h1>
@@ -18,11 +18,11 @@ SCOPE-XR builds perception-aware wireless networks for multi-user extended reali
 ## Partners
 
 <p align="center">
-  <img src="https://scope-xr.github.io/assets/logos/uga.png" alt="University of Georgia" height="40">&nbsp;&nbsp;&nbsp;
-  <img src="https://scope-xr.github.io/assets/logos/ut-austin.svg" alt="UT Austin" height="40">&nbsp;&nbsp;&nbsp;
-  <img src="https://scope-xr.github.io/assets/logos/virginia-tech.svg" alt="Virginia Tech" height="40">&nbsp;&nbsp;&nbsp;
-  <img src="https://scope-xr.github.io/assets/logos/uw-madison.png" alt="UW–Madison" height="48">&nbsp;&nbsp;&nbsp;
-  <img src="https://scope-xr.github.io/assets/logos/ericsson.svg" alt="Ericsson" height="44">
+  <a href="https://www.uga.edu"><img src="https://scope-xr.github.io/assets/logos/uga.png" alt="University of Georgia" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.utexas.edu"><img src="https://scope-xr.github.io/assets/logos/ut-austin.svg" alt="UT Austin" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vt.edu"><img src="https://scope-xr.github.io/assets/logos/virginia-tech.svg" alt="Virginia Tech" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.wisc.edu"><img src="https://scope-xr.github.io/assets/logos/uw-madison.png" alt="UW–Madison" height="48"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.ericsson.com"><img src="https://scope-xr.github.io/assets/logos/ericsson.svg" alt="Ericsson" height="44"></a>
 </p>
 
 | Institution | Team |
